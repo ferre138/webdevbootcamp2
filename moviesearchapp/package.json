@@ -9,7 +9,7 @@
   "author": "Jayme Cunha",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "express": "^4.16.3",
     "request": "^2.86.0"
   }
